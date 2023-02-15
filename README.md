@@ -3,7 +3,7 @@ A maze generator and Genetic Algorithm (GA) solver in Python, made using the Pil
 
 Generates, saves, loads and solves custom-made mazes.
 
-The algorithm is imperfect, but it works great on the maze "easy.png":
+The GA path-finding algorithm is imperfect, but it works great on the maze "easy.png":
 
 <p align=center>
   <img width=256 src="https://github.com/Ido-Waisbart/Genetic-Maze-Solver/blob/main/Press/easy_maze.png"/>
